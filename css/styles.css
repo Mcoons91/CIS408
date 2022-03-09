@@ -1,0 +1,15 @@
+/*Style sheet for intro HTML page*/
+
+body {
+background-color: #ccffdd;
+}
+
+.thisDiv {
+    display: block;
+}
+
+table, th, td {
+    border: 1px solid purple;
+    background: #d9b3ff;
+    width: 50%;
+}
